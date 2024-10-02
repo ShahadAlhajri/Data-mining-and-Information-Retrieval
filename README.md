@@ -67,8 +67,8 @@ We worked with **12 textual documents** in total, uploaded to Google Drive. Ten 
 - **Evaluation Metrics**: Includes precision and recall for testing the effectiveness of the retrieval system.
 
 
-
-## User Query Input
+## Demo
+**1- User Query Input**
 
 
 
@@ -76,7 +76,7 @@ We worked with **12 textual documents** in total, uploaded to Google Drive. Ten 
 
 
 
-## Query Results
+**2- Query Results**
 
 
 
@@ -84,7 +84,7 @@ We worked with **12 textual documents** in total, uploaded to Google Drive. Ten 
 
 
 
-## Document Details
+**3- Document Details**
 
 
 
