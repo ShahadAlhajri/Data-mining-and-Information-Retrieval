@@ -1,8 +1,8 @@
 # Information-Retrieval system
-Overview
+Overview:
 This project focuses on document preprocessing, term weighting, and information retrieval using a set of textual documents. The primary goal was to preprocess these documents, index them, and retrieve relevant information based on user queries using a similarity measure.
 
-Project Structure
+Project Structure:
 We worked with 12 textual documents in total, uploaded to Google Drive. Ten of these documents were about Data Structure, and the remaining two focused on Birds and Safran.
 
 Key Steps:
