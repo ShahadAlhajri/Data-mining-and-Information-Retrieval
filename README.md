@@ -1,5 +1,6 @@
 # Information Retrieval system
 **Overview**
+
 This project focuses on document preprocessing, term weighting, and information retrieval using a set of textual documents. The primary goal was to preprocess these documents, index them, and retrieve relevant information based on user queries using a similarity measure.
 
 **Project Structure**
