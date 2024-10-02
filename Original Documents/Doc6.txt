@@ -1,0 +1,7 @@
+An array is a  linear data structure that stores a collection of elements of the same data type. In Computer Programming,an array assembles equivalent data 
+elements stored at adjacent memory locations. It is a fixed-size container that can hold a specific number of elements of the same data type , This easiest 
+data structure helps to determine the location of each piece of data by simply using an offset to the base value. An offset is a number that illustrates the
+distinction between two index numbers.For instance, If you want to keep a record of the marks obtained by a student in 6 subjects, then you don’t need to determine
+the variables individually. Rather, you can determine an array that will store each piece of data factors at a contiguous memory location.Arrays are one of the oldest
+and most essential data structures used in almost every program. Arrays are also useful in implementing other data structures such as lists, heaps, hash tables, 
+deques, queues, stacks, and strings.

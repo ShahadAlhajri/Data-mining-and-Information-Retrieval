@@ -1,0 +1,8 @@
+a queue is is a type of linear data structure that stores a collection of elements  is an ordered collection of items where the addition of new items happens
+at one end, called the “rear,” and the removal of existing items occurs at the other end, commonly called the “front.” As an element enters the queue it starts
+at the rear and makes its way toward the front, waiting until that time when it is the next element to be removed.The most recently added item in the queue must
+wait at the end of the collection. The item that has been in the collection the longest is at the front. This ordering principle is sometimes called FIFO, first-in
+first-out. It is also known as “first-come first-served".The simplest example of a queue is the typical line that we all participate in from time to time. We wait
+in a line for a movie, we wait in the check-out line at a grocery store, and we wait in the cafeteria line (so that we can pop the tray stack). Well-behaved lines,
+or queues, are very restrictive in that they have only one way in and only one way out. Queues are commonly used in programming languages to manage tasks that need
+to be performed in a specific order, such as printing jobs or processing requests. Queues can be implemented using arrays or linked lists.

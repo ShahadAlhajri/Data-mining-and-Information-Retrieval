@@ -1,0 +1,8 @@
+The history of data structures dates back to the early days of computer programming. One of the earliest data structures was the array, which was used in FORTRAN
+in the 1950s. The linked list was introduced in the 1960s, followed by the stack and queue. In the 1970s, the tree data structure was developed, and in the 1980s,
+the hash table was introduced. Today, there are many different types of data structures, each with their own advantages and disadvantages. The development of data 
+structures has played a crucial role in the evolution of computer programming and software engineering. The development of data structures has been driven by the need 
+for efficient storage and retrieval of data in computer programs. As programs became more complex, the need for more sophisticated data structures grew. One of the most 
+significant advances in data structures was the introduction of object-oriented programming in the 1980s. Object-oriented programming allowed for the creation of complex
+data structures that could be easily reused and modified. Today, data structures are used in a wide range of applications, from databases and search engines to video games
+and mobile apps. The study of data structures is an important part of computer science education, and understanding them is essential for developing efficient software.

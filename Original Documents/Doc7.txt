@@ -1,0 +1,7 @@
+stack is a type of linear data structure that stores a collection of elements  is a logical concept that consists of a set of similar elements. The term is 
+often used in programming and memory organization in computers. Programming stacks are based on the principle of last in first out (LIFO), a commonly used type
+of data abstract that consists of two major operations, push and pop. The push operation adds an element to the bottom of stack while the pop operation removes
+an element from the top position.Software implementations of the stack concept are done using arrays and linked lists where the top position is tracked using 
+a variable or header pointer respectively. Many programming languages provide built-in features to support stack implementation. Stack is used in many software 
+applications, including artificial intelligence applications, animation applications, medical applications, and banking and financial applications.is also used
+in many programming languages

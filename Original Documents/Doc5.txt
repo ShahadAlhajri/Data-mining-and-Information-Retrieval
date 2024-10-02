@@ -1,0 +1,7 @@
+Basically, data structures are divided into two categories Linear data structure and Non-linear data structure The main difference between linear and non-linear
+data structures is the way in which they organize and store data.Linear data structures store data elements in a linear sequence, where each element is connected 
+to its previous and next element. Examples of linear data structures include arrays, linked lists, stacks, and queues. Linear data structures are useful when data 
+needs to be accessed sequentially, or when data elements need to be added or removed from one end of the structure.Non-linear data structures, on the other hand, 
+do not store data elements in a linear sequence. Instead, data elements are organized in a hierarchical or network-like structure. Examples of non-linear data 
+structures include trees and graphs. Non-linear data structures are useful when data needs to be organized based on relationships between data elements, or when 
+data needs to be accessed in a non-sequential manner.

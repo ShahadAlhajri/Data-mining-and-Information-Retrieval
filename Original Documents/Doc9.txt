@@ -1,0 +1,5 @@
+tree data structure is a collection of nodes connected by edges. Each node contains a value or data which may or may not have a child node. The first node of
+the tree is called the root. If this root node is connected with another node, then this root is called the parent node, and the node connected to it is the 
+child node. When operations are performed in a linear data structure, the complexity rises as the data size increases. On the other hand, the tree data structure
+provides much quicker access to the data, which is non-linear. Trees are commonly used to represent hierarchical relationships, such as file systems, organization 
+charts, and HTML documents. There are many different types of trees, such as binary trees.

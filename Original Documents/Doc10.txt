@@ -1,0 +1,5 @@
+Graphs are non-linear data structures that are made up of a set of nodes (or vertices), connected by edges (or arcs). Nodes are entities where the data is stored
+and their relationships are expressed using edges. Edges may be directed or undirected. Graphs demonstrate complicated relationships with ease and are used to
+solve many real-life problems.The most common types of graphs in the data structure are Undirected graph, Directed graph, Weighted Graph, Unweighted .Graphs are 
+powerful data structures that represent real-life relationships between entities. Graphs are used everywhere, from social networks, Google maps, and the world wide
+web to blockchains and neural networks. Due to their ability to provide abstractions to real-life, they are used in a variety of practical problems.
