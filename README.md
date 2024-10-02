@@ -35,12 +35,12 @@ Evaluated the system using precision and recall to assess its performance.
 - TF-IDF Weighting: This ensures that commonly used words are down-weighted, and more meaningful terms receive higher scores.
 - Evaluation Metrics: Includes precision and recall for testing the effectiveness of the retrieval system.
 
-**User Query Input**
+##User Query Input
 ![User Query Input](user_query_input.jpeg)
 
-**Query Results**
+##Query Results
 ![Query Results](query_results.jpeg)
 
-**Document Details**
+##Document Details
 ![Document Details](document_details.png)
 
