@@ -30,3 +30,13 @@ Features:
 - Query-Based Document Retrieval: Users can input queries and get ranked results based on document similarity.
 - TF-IDF Weighting: This ensures that commonly used words are down-weighted, and more meaningful terms receive higher scores.
 - Evaluation Metrics: Includes precision and recall for testing the effectiveness of the retrieval system.
+
+  ## User Query Input
+![User Query Input](user_query_input.jpeg)
+
+## Query Results
+![Query Results](query_results.jpeg)
+
+## Document Details
+![Document Details](document_details.png)
+
